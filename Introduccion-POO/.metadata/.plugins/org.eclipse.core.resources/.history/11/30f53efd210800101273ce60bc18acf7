@@ -6,7 +6,7 @@ public class Persona {
 	public String ciudad;
 	
 	//Constructor
-	//b) Crea tres personas
+	//b) Crea tres personas y muestra su saludo.
 	public Persona(String nomx, int edadx, String ciudadx) {
 		// TODO Auto-generated constructor stub
 		this.nombre=nomx;
